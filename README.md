@@ -1,2 +1,3 @@
 # dotfiles
-This repository will hold my various dotfiles, altough im just gonna add entire .config folders here just to be sure, you wont strictly need everything to copy my config.
+This repository will hold my various dotfiles, either directly or in specific folders for that config. For Example falloutsway holds the dotfiles for my Fallout Inspired SwayWM rice.
+
