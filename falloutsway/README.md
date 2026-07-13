@@ -1,3 +1,5 @@
+(lil disclaier, make sure to read the configs as some require files outside .config or have configs made specifically for laptops)
+
 Basically this is my fallout inspired rice on SwayWM, now you may notice next to the config files some files named 'l'
 
 This isn't because someone doesn't know git and has to make folders with dummy files to then upload the actual configs and doesn't know how to delete said dummy files.
