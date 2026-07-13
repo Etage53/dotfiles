@@ -1,0 +1,72 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  
+  "color": {
+    "keys": "#00ee00",
+    "title": "#00ee00",
+    "separator": "#00ee00",
+    "output": "#00ee00"
+},
+
+  "logo":{
+  "source":"~/Documents/fastfetch.png", //can be anything but I use documents as the source
+  "type":"auto",
+  "color": {"1": "#00ee00"}, 
+  "height":14,
+  "padding":{
+  "top":1,  //might wanna edit these to make the spacing symmetrical
+  "left":3
+  }
+},
+    "modules": [
+    "break", //the breaks are only here for symmetry. Probs the janky solution but it works. Might also want to edit them to keep symmetry.
+    "break",
+    "separator",
+    {
+      "type": "os",
+      "format": "{pretty-name}",	
+      "keyColor": "#00ee00",   //the keyColor can be changed to whatever you want
+    },
+    {
+      "type": "kernel",
+      "keyColor": "#00ee00",
+    },
+    {
+      "type": "uptime",
+      "keyColor": "#00ee00",
+    },
+    {
+      "type": "packages",
+      "keyColor": "#00ee00",
+    },
+    {
+      "type": "cpu",
+      "keyColor": "#00ee00",
+    },
+    {
+      "type": "gpu",
+      "keyColor": "#00ee00",
+    },
+    {
+      "type": "memory",
+      "keyColor": "#00ee00",
+    },
+    {
+      "type": "swap",
+      "keyColor": "#00ee00",
+    }, 
+    {
+      "type": "disk",
+      "keyColor": "#00ee00",
+    }, 
+    {
+      "type": "localip",
+      "keyColor": "#00ee00",
+    },
+    {
+      "type": "battery",
+      "keyColor": "#00ee00",
+    },  
+    "separator", 
+]
+}
