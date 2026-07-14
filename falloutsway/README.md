@@ -8,6 +8,8 @@ This isn't because someone doesn't know git and has to make folders with dummy f
 
 I mean what an idiot he would be right?
 
+## Requirements
+
 Anyways this rice uses
 
 1. Sway
@@ -15,10 +17,10 @@ Anyways this rice uses
 3. Kitty
 4. Fish (whose files im NOT attaching)
 5. Rofi
-5. dunst
-6. fastfetch
-7. flameshot
-8. Superfile
+6. dunst
+7. fastfetch
+8. flameshot
+9. Superfile
 
 Some of these are optional, namely Kitty, fish, flameshot, fastfetch, superfile, but they are here for my sake, I recommend reading the requirements for all of these, one thing that is surely need is a Nerd font.
 
@@ -31,6 +33,8 @@ Optional, but very recommended: GRUB Theme <https://www.gnome-look.org/p/1230882
 
 
 <https://www.color-hex.com/color-palette/1017284> The color pallete used, should it be needed for further theming.
+
+## End Effect
 
 The finished effect should look something like this
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/54d4cef4-0216-4261-8d5a-e7f15aef731f" />
