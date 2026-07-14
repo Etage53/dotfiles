@@ -25,6 +25,11 @@ Additionally outside of config files the rice uses these:
 2. Firefox Color <https://color.firefox.com/?theme=XQAAAAKyAgAAAAAAAABBKYhm849SCicxcUKvrXcGHf3p79EhVPQ41r7xcfZ9PTtZXOCodDGeWzwczXcPpm8yff8GiDxit6MIqlkmOm93b-TIU5ylaKgy9T_jAjNdaIxLPNrlNfq3s04i4T6Cq_a9ptogKkubLfw6dGPWuNUjwB9g4b_MtaYnx1vHOnR1SncHazH-Ll57Mw4Z-SldEq08PNGtqAw6Hl2SHsvtrsiAmK7AL325_y_zlyW9gzT8LsmAgrPy8xlc8Iolr7fJcSm-WY6oNFJ2PDZr8gz0fYALSObggaiuOjz-s2hhgWYDOfEFdkwbPOp_8wEtVT4NXGz1w-ggS1s_YdHbdYXON95C0pUc_9NyANQ>
 3. Wallpaper <https://cdn.wallpapersafari.com/92/48/1nHifq.jpg>
 
+Optional, but very recommended: GRUB Theme <https://www.gnome-look.org/p/1230882>
+
+
+<https://www.color-hex.com/color-palette/1017284> The color pallete used, should it be needed for further theming.
+
 The finished effect should look something like this
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/54d4cef4-0216-4261-8d5a-e7f15aef731f" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cab6e321-7730-473f-b5c0-122bdea469cf" />
