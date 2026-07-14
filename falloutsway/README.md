@@ -1,3 +1,5 @@
+# Fallout SwayWM Rice
+
 (lil disclaier, make sure to read the configs as some require files outside .config or have configs made specifically for laptops)
 
 Basically this is my fallout inspired rice on SwayWM, now you may notice next to the config files some files named 'l'
