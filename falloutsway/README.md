@@ -18,7 +18,7 @@ Anyways this rice uses
 7. flameshot
 8. Superfile
 
-Some of these are optional, namely Kitty, fish, flameshot, fastfetch, superfile, but they are here for my sake
+Some of these are optional, namely Kitty, fish, flameshot, fastfetch, superfile, but they are here for my sake, I recommend reading the requirements for all of these, one thing that is surely need is a Nerd font.
 
 Additionally outside of config files the rice uses these:
 1. GTK Theme <https://www.gnome-look.org/p/2010119> 
